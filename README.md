@@ -68,7 +68,7 @@ This detailed pipeline connects your project's components based on their functio
 
 Output at Firebase
 
-(https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/1c6bdcc9-b29c-491f-a39e-63c890d73b78)
+[](https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/1c6bdcc9-b29c-491f-a39e-63c890d73b78)
 
 
 
