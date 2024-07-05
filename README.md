@@ -1,4 +1,7 @@
-![WhatsApp Image 2024-05-17 at 03 07 28](https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/5a12abe3-ba3e-40da-aa10-b9e33ad708fa)*Innovative-product-Development-
+(https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/5a12abe3-ba3e-40da-aa10-b9e33ad708fa)
+
+
+*Innovative-product-Development-
 We have developed a machine learning-powered browser extension to clarify website data collection practices. By analysing and simplifying complex privacy policies, our tool helps users understand data collection, storage, sharing, and risks, empowering them to make informed decisions and control their online privacy.
 
 To create a detailed workflow pipeline showing the connections and interactions between your code files along with line references where these connections occur, I will analyze the content of the key Python files (`main.py`, `fire_db.py`, `scraper.py`, and others) that you uploaded. This analysis will outline how data flows through these files, which files are responsible for input, processing, and output, and the exact lines where these interactions are coded.
@@ -65,14 +68,16 @@ This detailed pipeline connects your project's components based on their functio
 
 Output at Firebase
 
-![WhatsApp Image 2024-05-17 at 11 03 17](https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/1c6bdcc9-b29c-491f-a39e-63c890d73b78)
+(https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/1c6bdcc9-b29c-491f-a39e-63c890d73b78)
 
 
 
 Final Outputs
-![WhatsApp Image 2024-05-17![WhatsApp Image 2024-05-17 at 02 02 23](https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/015b5f49-e20e-4eee-8b3d-7d0631ff3f6f)
+These below outputs are for various websites 
 
- at 03 07 28](https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/d21e10d9-b902-4218-a8c1-960b0d560d04)
+(https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/015b5f49-e20e-4eee-8b3d-7d0631ff3f6f)
 
-![WhatsApp Image 2024-05-17 at 01 58 25](https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/7b09701b-a791-48db-9c80-4f97cf37bce1)
+(https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/d21e10d9-b902-4218-a8c1-960b0d560d04)
+
+(https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/7b09701b-a791-48db-9c80-4f97cf37bce1)
 
