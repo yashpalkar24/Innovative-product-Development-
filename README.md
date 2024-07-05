@@ -68,16 +68,16 @@ This detailed pipeline connects your project's components based on their functio
 
 Output at Firebase
 
-[](https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/1c6bdcc9-b29c-491f-a39e-63c890d73b78)
+![](https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/1c6bdcc9-b29c-491f-a39e-63c890d73b78)
 
 
 
 Final Outputs
 These below outputs are for various websites 
 
-[](https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/015b5f49-e20e-4eee-8b3d-7d0631ff3f6f)
+![](https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/015b5f49-e20e-4eee-8b3d-7d0631ff3f6f)
 
-[](https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/d21e10d9-b902-4218-a8c1-960b0d560d04)
+![](https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/d21e10d9-b902-4218-a8c1-960b0d560d04)
 
-[](https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/7b09701b-a791-48db-9c80-4f97cf37bce1)
+![](https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/7b09701b-a791-48db-9c80-4f97cf37bce1)
 
