@@ -1,4 +1,4 @@
-(https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/5a12abe3-ba3e-40da-aa10-b9e33ad708fa)
+[](https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/5a12abe3-ba3e-40da-aa10-b9e33ad708fa)
 
 
 *Innovative-product-Development-
@@ -75,9 +75,9 @@ Output at Firebase
 Final Outputs
 These below outputs are for various websites 
 
-(https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/015b5f49-e20e-4eee-8b3d-7d0631ff3f6f)
+[](https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/015b5f49-e20e-4eee-8b3d-7d0631ff3f6f)
 
-(https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/d21e10d9-b902-4218-a8c1-960b0d560d04)
+[](https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/d21e10d9-b902-4218-a8c1-960b0d560d04)
 
-(https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/7b09701b-a791-48db-9c80-4f97cf37bce1)
+[](https://github.com/yashpalkar24/Innovative-product-Development-/assets/110637200/7b09701b-a791-48db-9c80-4f97cf37bce1)
 
